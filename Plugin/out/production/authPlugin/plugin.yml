@@ -1,0 +1,15 @@
+name: AuthPlugin
+version: 1.0
+author: Diltz
+main: me.diltz.authplugin.Main
+api-version: 1.17
+prefix: "AuthPlugin"
+commands:
+  login:
+    description: "Login to account"
+    usage: "Usage: /login PASSWORD"
+    aliases: []
+  register:
+    description: "Register account"
+    usage: "Usage: /register PASSWORD PASSWORD"
+    aliases: []

@@ -1,0 +1,8 @@
+### tags
+# PLAYER_NAME - player name
+# SERVER_NAME - server name
+
+WelcomeReg:
+  §6Welcome to §fSERVER_NAME§6, §fPLAYER_NAME! §6Login to account (/login PASSWORD)
+WelcomeUnReg:
+  §6Welcome, §fPLAYER_NAME§6! Please register your account before playing on §fSERVER_NAME§6 (/register PASSWORD PASSWORD)
